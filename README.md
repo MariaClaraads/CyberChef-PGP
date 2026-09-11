@@ -18,7 +18,7 @@ Demonstrar a geração de um par de chaves PGP, a criptografia de uma mensagem u
 A criptografia assimétrica utiliza um par de chaves:
 
 - *Chave pública:* utilizada para criptografar a mensagem.
-- *Chave privada:* utilizada para descriptografar a mensagem.
+- Chave privada: utilizada para descriptografar a mensagem.
 
 A chave privada deve ser mantida em segurança e nunca deve ser compartilhada publicamente.
 
